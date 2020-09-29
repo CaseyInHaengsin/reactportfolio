@@ -1,13 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Header from './components/Header';
-import SideBar from './components/SideBar';
+import MainDisplay from './components/MainDisplay';
+
 
 const App = () => {
     return (
         <div>
             <Header />
-            <SideBar />
+            <br></br>
+            <MainDisplay />
+            <br></br>
+            <div>
+                
+            </div>
         </div>
     )
 }

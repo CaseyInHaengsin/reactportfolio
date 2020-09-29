@@ -4,14 +4,14 @@ import React from 'react';
 const Header = () => {
     return (
         <div>
-            <div class="ui large top fixed hidden menu">
-                <div class="ui container">
-                <a class="active item">Home</a>
-                    <a class="item">Work History</a>
-                    <a class="item">Projects</a>
-                <div class="right menu">
-                    <div class="item">
-                    <a class="item">About me</a>
+            <div className="ui large top fixed borderless hidden menu">
+                <div className="ui container">
+                <a className="active item">Home</a>
+                    <a className="item">Work History</a>
+                    <a className="item">Projects</a>
+                <div className="right menu">
+                    <div className="item">
+                    <a className="item">About me</a>
                 </div>
                 </div>
             </div>

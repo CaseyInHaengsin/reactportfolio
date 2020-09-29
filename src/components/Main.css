@@ -1,0 +1,40 @@
+
+.main-display{
+    height: 800px;
+}
+#portfolio-image{
+    height: 400px;
+    margin-top: 10px;
+    padding-top: 20px;
+    float: left;
+}
+
+.main-container{
+    margin-top: 20px;
+    height: 800px;
+
+}
+
+.profile-icons{
+    float: right;
+    
+}
+
+.ui.two.column.very.relaxed.stackable.grid {
+    margin-top: 100px;
+    height: 100%
+}
+
+a > .github.left.icon.huge{
+    text-decoration: none;
+    color: black;
+}
+
+.segment-about{
+    
+}
+
+.who-i-am{
+    margin-right: 30%;
+    float: right;
+}
