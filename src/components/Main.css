@@ -37,4 +37,5 @@ a > .github.left.icon.huge{
 .who-i-am{
     margin-right: 30%;
     float: right;
+    text-justify: inter-word;
 }

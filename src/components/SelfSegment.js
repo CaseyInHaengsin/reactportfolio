@@ -6,20 +6,17 @@ import React from 'react';
 const SelfSegment = () => {
     return (
         <div class="container who-i-am centered">
-                    <h2>Skills</h2>
-                
-                    
-                <ul class="ui list skill-list">
-                <li>Python</li>
-                <li>Ruby</li>
-    
-                <li>React</li>
-                <li>Project Management</li>
-                </ul>
-                
+            <article>
+            <h2>Bio</h2>
+                <p>
+                    I work as a Professional Services Engineer at Instructure, a Learning Management System
+
+                </p>
+            </article>
                 
         </div>
     )
 }
+
 
 export default SelfSegment;
