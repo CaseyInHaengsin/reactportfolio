@@ -6,10 +6,18 @@ import React from 'react';
 const SelfSegment = () => {
     return (
         <div class="container who-i-am centered">
-                <div className="ui stacked segment">
-                    <p>A passionate learner, and other cool words</p>
-                    <p>A passionate learner, and other cool words</p>
-                </div>
+                    <h2>Skills</h2>
+                
+                    
+                <ul class="ui list skill-list">
+                <li>Python</li>
+                <li>Ruby</li>
+    
+                <li>React</li>
+                <li>Project Management</li>
+                </ul>
+                
+                
         </div>
     )
 }
