@@ -1,7 +1,6 @@
 import './Main.css';
 import React from 'react';
 import portfolio from '../assets/portfolio';
-import SelfSegment from './SelfSegment';
 
 
 
