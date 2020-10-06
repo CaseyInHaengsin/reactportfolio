@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import MainDisplay2 from './components/MainDisplay2';
-
+import 'semantic-ui/dist/semantic.min.css';
 
 const App = () => {
    
