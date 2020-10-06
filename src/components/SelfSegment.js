@@ -10,7 +10,6 @@ const SelfSegment = () => {
             <h2>Bio</h2>
                 <p>
                     I work as a Professional Services Engineer at Instructure, a Learning Management System
-
                 </p>
             </article>
                 
